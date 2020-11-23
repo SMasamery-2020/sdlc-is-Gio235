@@ -9,13 +9,14 @@ What are the stages of SDLC? explain
 
 The stages of SDLC are:
 
-1. Identify
-2. Plan
-3. Design
-4. Build
-5. Test
-6. Deploy
-7. Maintain
+1. Identify - Find what the problem is
+2. Plan - Determine the feasibility of the project, while also considering low risks
+3. Design - Go over the plan and offer feedback and suggestions
+4. Build - Actual development of project starts, stick to the plan
+5. Test - Verify if code meets the requirements
+6. Deploy - Release the product to the public so users can start using the product
+7. Maintainence - Get feedback from the public and fix your product
+8. Maintain - Constantly make adjustments to make the product relevant
 
 
 Define five SDLC models (methodology).
