@@ -29,6 +29,16 @@ Define five SDLC models (methodology).
 
 Take one of the SDLC models and explain the implementation process.
 
-
+Waterfall Model Implementation -
+The system is developed into smaller programs called units. 
+Each unit is developed and tested for its functionality, known
+as Unit Testing.
 
 Describe how to apply SDLC model in the version control App.
+
+You can apply the Waterfall Model in the version control app by 
+having a clear goal of what needs to be accomplished at the
+start of the project. It is straightforward and expectations 
+are clear. Each phase must be fully completed before moving
+on to the next one.
+
